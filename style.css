@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+.container {
+  width: 80%;
+  height: 100vh;
+  position: relative;
+  top: 0;
+  margin: 0 auto;
+}
+
+.header {
+  height: 50px;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  z-index: 1;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+  margin-left: 145px;
+  background-color: #ba160b;
+}
+
+.main-story {
+  height: 450px;
+  width: 400px;
+  background-color: blue;
+  margin-top: 100px;
+  display: inline-block;
+}
+
+.main-2  {
+  height: 450px;
+  width: 345px;
+  background-color: blue;
+  margin-top: 50px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.main-3  {
+  height: 450px;
+  width: 345px;
+  background-color: blue;
+  margin-top: 50px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+
+.row-2-1, .row-2-2 {
+  height: 450px;
+  width: 350px;
+  background-color: blue;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.row-3-1, .row-3-2 {
+  height: 450px;
+  width: 363px;
+  background-color: green;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.row-3-3{
+  height: 450px;
+  width: 363px;
+  background-color: green;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.row-4-1, .row-4-2 {
+  height: 450px;
+  width: 363px;
+  background-color: yellow;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.row-4-3{
+  height: 450px;
+  width: 363px;
+  background-color: yellow;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.row-5-1, .row-5-2 {
+  height: 450px;
+  width: 363px;
+  background-color: purple;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.row-5-3{
+  height: 450px;
+  width: 363px;
+  background-color: purple;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.row-6-1, .row-6-2 {
+  height: 450px;
+  width: 363px;
+  background-color: orange;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.row-6-3{
+  height: 450px;
+  width: 363px;
+  background-color: orange;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.video {
+  display: inline-block;
+  height: 30px;
+  width: 5%;
+  font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  font-size: 24px;
+  font-size: 1.6rem;
+  line-height: 1.25;
+}
+
+.rule {
+  height: 15px;
+  width: 94%;
+  margin-top: 20px;
+  background-color: grey;
+  display: inline-block;
+}
+
+.should-see {
+  height: 600px;
+  width: 800px;
+  margin-top: 20px;
+  background-color: red;
+  display: inline-block;
+}
+
+.jff {
+  display: inline-block;
+  margin-top: 20px;
+  background-color: red;
+  height: 600px;
+  width: 315px;
+  margin-left: 20px;
+}
+
+.video-bar {
+  width: 100%;
+  height: 40px;
+  background-color: blue;
+}
+
+
+.vid1, .vid2,  .vid4, .vid5,  .vid7, .vid8 {
+  width: 253px;
+  height: 174px;
+  margin-top: 10px;
+  margin-right: 16.5px;
+  display: inline-block;
+  background-color: blue;
+}
+
+.vid3, .vid6, .vid9 {
+  width: 253px;
+  margin-top: 10px;
+  height: 174px;
+  display: inline-block;
+  background-color: blue;
+}
+
+
+.jff-vid1 {
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 100%;
+  height: 200px;
+}
+
+.jff-vid2, .jff-vid3, .jff-vid4, .jff-vid5, .jff-vid6 {
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 100%;
+  height: 80px;
+}
+
+.more {
+  display: inline-block;
+  height: 30px;
+  width: 15.5%;
+  font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  font-size: 24px;
+  font-size: 1.6rem;
+  line-height: 1.25;
+
+}
+
+.rule2 {
+  height: 15px;
+  width: 84%;
+  margin-top: 20px;
+  background-color: grey;
+  display: inline-block;
+}
+
+.row-7-1, .row-7-2 {
+  height: 450px;
+  width: 363px;
+  background-color: teal;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.photos {
+  display: inline-block;
+  height: 30px;
+  width: 6.5%;
+  font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  font-size: 24px;
+  font-size: 1.6rem;
+  line-height: 1.25;
+
+}
+
+.rule3 {
+  height: 15px;
+  width: 93%;
+  margin-top: 20px;
+  background-color: grey;
+  display: inline-block;
+}
